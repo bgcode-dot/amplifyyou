@@ -11,7 +11,7 @@ const Program = () => {
   
   <div className="text-[16px] leading-relaxed text-[#636363CC] space-y-4 mb-8">
     <p>
-      Brenda Unuavworho is not just a woman of many titles—she's a woman of deep purpose. A renowned architect with nearly two decades of experience, Brenda has designed and executed high-impact residential, commercial, and industrial projects—from multi-story apartments to banks and office complexes.
+      Brenda Unuavworho is not just a woman of many titles—she's a woman of deep purpose. A renowned architect with over two decades of experience, Brenda has designed and executed high-impact residential, commercial, and industrial projects—from multi-story apartments to banks and office complexes.
     </p>
     
     <p>
