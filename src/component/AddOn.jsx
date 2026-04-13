@@ -47,7 +47,7 @@ const AddOn = () => {
           <Image src={check} alt='check' width={18} height={18} />
         </div>
         <p className="text-[16px] text-[#636363CC] text-left">
-          Preorder the Book for N12,000 + Get the Bonus Masterclass (preorder closed August 15)
+          Buy now and access replay to the masterclass
         </p>
       </div>
       
@@ -83,7 +83,7 @@ const AddOn = () => {
     
     <div className="flex flex-wrap justify-center gap-4">
       <a href="https://selar.com/8g3657"><button className="bg-[#DF3841] text-white px-6 py-3 rounded-lg text-[14px] font-medium hover:bg-red-700 transition-colors">
-        Pre-order the book
+        Buy Now
       </button></a>
       
 

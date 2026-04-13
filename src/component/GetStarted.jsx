@@ -27,7 +27,7 @@ const GetStarted = () => {
     
     <p className="text-[16px] text-[#636363CC] mb-2">My new book is the perfect place to begin your journey.</p>
     <p className="text-[16px] text-[#636363CC] mb-2">
-      Pre-order now for just N17,500 before it goes up to N20,000!
+      Buy NOW
     </p>
     <p className="text-[16px] text-[#636363CC] mb-8">
       and get access to a powerful exclusive bonus! <span className="font-bold text-red-600">FREE MASTERCLASS</span>
@@ -42,7 +42,7 @@ const GetStarted = () => {
     <div className="flex justify-center ">
       <a href="https://selar.com/8g3657" target="_blank" rel="noopener noreferrer">
         <button className=" bg-[#DF3841] drop-shadow-sm text-white rounded-[10px] w-[299px] h-[51px] text-[16px] mb-8">
-        Pre-order the book + unlock your bonus
+        BUY NOW and get replay of masterclass
         </button>
 
       </a>

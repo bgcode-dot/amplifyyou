@@ -24,7 +24,7 @@ const Pricing = () => {
             
              
           </div>
-          <span className='text-[#5D5D5DCC] text-[14px] opacity-80 '>Starts September 2025</span>
+          <span className='text-[#5D5D5DCC] text-[14px] opacity-80 '>Available now. A self paced course.</span>
           
          <a href="https://selar.com/2g245247j2" target="_blank" rel="noopener noreferrer">
            <button className="w-full py-2 border border-[#DF3841] text-[#DF3841] rounded-md  mt-[14px]">
@@ -65,7 +65,7 @@ const Pricing = () => {
             
              
           </div>
-          <span className='text-[#5D5D5DCC] text-[14px] opacity-80 '>Starts September 2025</span>
+          <span className='text-[#5D5D5DCC] text-[14px] opacity-80 '>Starts April 2026</span>
           
          <a href="https://selar.com/z923n9996r" target="_blank" rel="noopener noreferrer">
            <button className="w-full py-2 border border-[#DF3841] text-[#DF3841] rounded-md  mt-[14px]">
