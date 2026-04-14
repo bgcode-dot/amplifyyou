@@ -1,4 +1,4 @@
-import React from 'react'
+﻿import React from 'react'
 import Image from 'next/image'
 import check from '../assets/check.png';
 
@@ -86,13 +86,6 @@ const AddOn = () => {
         Buy Now
       </button></a>
       
-
-      <a href="https://selar.com/2g245247j2">
-      <button className="bg-[#DF3841] text-white px-6 py-3 rounded-lg text-[14px] font-medium hover:bg-red-700 transition-colors">
-        Online Course
-      </button>
-      </a>
-      
       <a href="https://selar.com/z923n9996r"><button className="bg-[#DF3841] text-white px-6 py-3 rounded-lg text-[14px] font-medium hover:bg-red-700 transition-colors">
         Group Coaching
       </button></a>
@@ -109,3 +102,5 @@ const AddOn = () => {
 }
 
 export default AddOn
+
+
